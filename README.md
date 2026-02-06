@@ -1,8 +1,3 @@
-Claro, Ana! Aqui está o conteúdo reescrito **no formato README.md**, pronto para colocar no seu GitHub dentro do desafio da DIO e registrar oficialmente seu projeto **TDAH VIBES** dentro da abordagem **Vibe Coding**.  
-Organizei tudo de forma profissional, clara, estruturada e com boa aparência para repositórios.
-
-***
-
 # 🧠 TDAH VIBES
 
 ### Um App de Organização, Emoções e Constância para Pessoas com TDAH
